@@ -1,3 +1,3 @@
 # ANALOG-DIGITAL-COMMUNICATION
-Contains general codes related to ADC
+Contains general codes related to ADC.
 ALL CODES ARE WRITTEN BY ME.
